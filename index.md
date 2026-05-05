@@ -5,8 +5,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DfZ000000NwbB',
-				'VisuraMessagingChannel',
-				'https://tinextagroup--visuradev.sandbox.my.site.com/ESWVisuraMessagingChannel1777546316708',
+				'VisuraMessaging',
+				'https://tinextagroup--visuradev.sandbox.my.site.com/ESWVisuraMessaging1777966589495',
 				{
 					scrt2URL: 'https://tinextagroup--visuradev.sandbox.my.salesforce-scrt.com'
 				}
@@ -16,4 +16,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://tinextagroup--visuradev.sandbox.my.site.com/ESWVisuraMessagingChannel1777546316708/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://tinextagroup--visuradev.sandbox.my.site.com/ESWVisuraMessaging1777966589495/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
